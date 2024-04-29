@@ -2,11 +2,14 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dzineer.dzineer)
 
 
+
 I'm interested in building AI Automations systems and tools.
 
 <img align="right" src="./figures/dzineer_digital_whiteboard.png" width="100%" style="border-radius: 50%;"/>
 
 ## A little about Me
+
+Python
 
 ```python
 class Dzineer(AI AutomationAISpecialist):
@@ -17,42 +20,93 @@ class Dzineer(AI AutomationAISpecialist):
         self.interest = ["Entrepreneurship", "IP", "VC Methods"]
 ```
 
-```php
-interface Automations {}
-interface AI {}
+JavaScript/ReactJS
 
-class Dzineer implements Automations, AI {
-    public function __construct() {
-        $this->name     = "Frank";
-        $this->model    = ["Automations", "AI", "Design"];
-        $this->research = ["AI", "AI Automations", "Software Architect, Emphasis AI & Automations"];
-        $this->interest = ["Entrepreneurship", "IP", "VC Methods"];
-    }
-}   
+```js
+
+import React, { useEffect, useState } from 'react';
+
+const DzineerContext = React.createContext();
+
+const DzineerProvider = ({ children }) => {
+    const [dzineerState, setDzineerState] = useState({
+        name: "Frank",
+        model: ["Automations", "AI", "Design"],
+        research: ["AI", "AI Automations", "Software Architect, Emphasis AI & Automations"],
+        interest: ["Entrepreneurship", "IP", "VC Methods"]
+    });
+
+    useEffect(() => {
+        // Perform any side effects or data fetching here
+    }, []);
+
+    return (
+        <DzineerContext.Provider value={dzineerState}>
+            {children}
+        </DzineerContext.Provider>
+    );
+};
+
+const Dzineer = () => {
+    const dzineerState = React.useContext(DzineerContext);
+
+    return (
+        <div>
+            <img src="https://img.shields.io/badge/AI-AI-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8" alt="AI Badge" />
+        </div>
+    );
+};
+
+export { DzineerProvider, Dzineer };
+
 ```
 
 
 ```php
-class Dzineer extends React.Component {
-    constructor() {
-        super();
-        this.state = {
-            name: "Frank",
-            model: ["Automations", "AI", "Design"],
-            research: ["AI", "AI Automations", "Software Architect, Emphasis AI & Automations"],
-            interest: ["Entrepreneurship", "IP", "VC Methods"]
-        };
-    }
+<?php
 
-    render() {
-        return (
-            <div>
-                <img src="https://img.shields.io/badge/AI-AI-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8" alt="AI Badge" />
-            </div>
-        );
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Dzineer extends Model
+{
+    protected $attributes = [
+        'name' => 'Frank',
+        'model' => '["Automations", "AI", "Design"]',
+        'research' => '["AI", "AI Automations", "Software Architect, Emphasis AI & Automations"]',
+        'interest' => '["Entrepreneurship", "IP", "VC Methods"]'
+    ];
+}
+
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use App\Dzineer;
+
+class DzineerController extends Controller
+{
+    public function show()
+    {
+        $dzineer = Dzineer::first();
+        return view('dzineer', ['dzineer' => $dzineer]);
     }
 }
+
+
+<!-- resources/views/dzineer.blade.php -->
+
+<div>
+    <img src="https://img.shields.io/badge/AI-AI-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8" alt="AI Badge" />
+    <p>{{ $dzineer->name }}</p>
+    <p>{{ $dzineer->model }}</p>
+    <p>{{ $dzineer->research }}</p>
+    <p>{{ $dzineer->interest }}</p>
+</div>
+
 ```
+
 
 ## Technologies & Tools 
 
