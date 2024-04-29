@@ -8,7 +8,9 @@
 - [Connect with Me](#connect-with-me)
  
 
-<br/><br/><br/>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <a id="hello-im-dzineer"></a>
 
@@ -21,7 +23,9 @@ I'm interested in building AI Automations systems and tools.
 
 <img align="right" src="./figures/dzineer_digital_whiteboard.png" width="100%" style="border-radius: 50%;margin-bottom:40px;"/>
 
-<br/><br/><br/>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
@@ -166,7 +170,9 @@ class DzineerController extends Controller
 
 ```
 
-<br/><br/><br/>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
