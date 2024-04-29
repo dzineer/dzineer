@@ -3,9 +3,9 @@
 
 
 
-I'm interested in building AI/ML systems and tools.
+I'm interested in building AI Automations systems and tools.
 
-## A little about Me <img src="./figures/cat4.gif" width="40px">
+## A little about Me
 
 <img align="right" src="./figures/ai_generated_selfie.jpeg" width="200" style="border-radius: 50%;"/>
 
