@@ -22,15 +22,12 @@ I'm interested in building AI Automations systems and tools.
 <img align="right" src="./figures/dzineer_digital_whiteboard.png" width="100%" style="border-radius: 50%;margin-bottom:40px;"/>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 <a id="a-little-about-me"></a>
 
 ## A little about Me
 
 I'm a software developer specializing in AI and automation systems. I have a strong background in Python, JavaScript/ReactJS, and PHP/Laravel. Here's a little more about me:
-
 
 ```python
 class Dzineer(AI AutomationAISpecialist):
@@ -167,8 +164,6 @@ class DzineerController extends Controller
 ```
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 <a id="technologies--tools"></a>
 
@@ -240,8 +235,6 @@ class DzineerController extends Controller
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![Streamlit](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=6aa6f8)
 
-
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <a id="connect-with-me"></a>
