@@ -24,9 +24,20 @@ JavaScript/ReactJS
 
 ```jsx
 
-import React, { useEffect, useState } from 'react';
+
+DzineerContext.jsx:
+
+import React from 'react';
 
 const DzineerContext = React.createContext();
+
+export default DzineerContext;
+
+
+DzineerProvider.jsx:
+
+import React, { useEffect, useState } from 'react';
+import DzineerContext from './DzineerContext';
 
 const DzineerProvider = ({ children }) => {
     const [dzineerState, setDzineerState] = useState({
@@ -47,6 +58,13 @@ const DzineerProvider = ({ children }) => {
     );
 };
 
+export default DzineerProvider;
+
+Dzineer.jsx:
+
+import React from 'react';
+import DzineerContext from './DzineerContext';
+
 const Dzineer = () => {
     const dzineerState = React.useContext(DzineerContext);
 
@@ -59,12 +77,16 @@ const Dzineer = () => {
             <p>Interest: {dzineerState.interest.join(', ')}</p>
         </div>
     );
-}
+};
 
-export { DzineerProvider, Dzineer };
+export default Dzineer;
+
+App.jsx:
+
 
 import React from 'react';
-import { DzineerProvider, Dzineer } from './Dzineer'; // adjust the import path according to your project structure
+import DzineerProvider from './DzineerProvider';
+import Dzineer from './Dzineer';
 
 function App() {
     return (
@@ -75,7 +97,6 @@ function App() {
 }
 
 export default App;
-
 
 ```
 
