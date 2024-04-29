@@ -15,6 +15,7 @@ class Dzineer(AI AutomationAISpecialist):
         self.model    = ["Automations", "AI", "Design"]
         self.research = ["AI", "AI Automations", "Software Architect, Emphasis AI & Automations"]
         self.interest = ["Entrepreneurship", "IP", "VC Methods"]
+```
         
 ```php
 interface Automations {}
