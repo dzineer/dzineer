@@ -4,9 +4,9 @@
 
 I'm interested in building AI Automations systems and tools.
 
-## A little about Me
-
 <img align="right" src="./figures/dzineer_digital_whiteboard.png" width="200" style="border-radius: 50%;"/>
+
+## A little about Me
 
 ```python
 class Dzineer(AI AutomationAISpecialist):
@@ -16,7 +16,6 @@ class Dzineer(AI AutomationAISpecialist):
         self.research = ["AI", "AI Automations", "Software Architect, Emphasis AI & Automations"]
         self.interest = ["Entrepreneurship", "IP", "VC Methods"]
 ```
-
 
 ```php
 interface Automations {}
