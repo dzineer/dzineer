@@ -49,6 +49,7 @@ class Dzineer(AI AutomationAISpecialist):
 ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 
 **Operating Systems:**
+
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 ![Debian](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
