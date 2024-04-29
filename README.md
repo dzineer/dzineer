@@ -6,9 +6,7 @@
 - [A little about Me](#a-little-about-me)
 - [Technologies \& Tools](#technologies--tools)
 - [Connect with Me](#connect-with-me)
- 
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -25,8 +23,6 @@ I'm interested in building AI Automations systems and tools.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 
 <a id="a-little-about-me"></a>
@@ -172,8 +168,6 @@ class DzineerController extends Controller
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 
 <a id="technologies--tools"></a>
@@ -247,9 +241,8 @@ class DzineerController extends Controller
 ![Streamlit](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=6aa6f8)
 
 
-
-
-<br /><br /><br />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <a id="connect-with-me"></a>
 
