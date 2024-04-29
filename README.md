@@ -31,7 +31,7 @@ class Dzineer(AI AutomationAISpecialist):
 **Pipelines:**
 
 ![Azure DevOps](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azuredevops&logoColor=white&color=6aa6f8)
-![Git DevOps](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=cloud&logoColor=white&color=6aa6f8)
+![Github DevOps](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
 
 **Programming Languages:**
 
