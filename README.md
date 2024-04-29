@@ -30,6 +30,7 @@ class Dzineer(AI AutomationAISpecialist):
 ![Git DevOps](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
 
 **Pipelines:**
+
 ![Azure DevOps](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 ![Git DevOps](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
 
@@ -40,6 +41,7 @@ class Dzineer(AI AutomationAISpecialist):
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 
 **Frameworks:**
+
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 ![Vue](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
