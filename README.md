@@ -1,15 +1,17 @@
 
 
-# Table of Contents
+## Table of Contents
 - [Table of Contents](#table-of-contents)
-  - [Hello! I'm Dzineer.](#hello-im-dzineer)
-  - [A little about Me](#a-little-about-me)
-  - [Technologies \& Tools](#technologies--tools)
-  - [Connect with Me](#connect-with-me)
+- [Hello! I'm Dzineer.](#hello-im-dzineer)
+- [A little about Me](#a-little-about-me)
+- [Technologies \& Tools](#technologies--tools)
+- [Connect with Me](#connect-with-me)
  
+
 <br/><br/><br/>
 
 <a id="hello-im-dzineer"></a>
+
 
 ## Hello! I'm Dzineer.
 
@@ -20,6 +22,8 @@ I'm interested in building AI Automations systems and tools.
 <img align="right" src="./figures/dzineer_digital_whiteboard.png" width="100%" style="border-radius: 50%;margin-bottom:40px;"/>
 
 <br/><br/><br/>
+
+
 
 <a id="a-little-about-me"></a>
 
@@ -164,6 +168,8 @@ class DzineerController extends Controller
 
 <br/><br/><br/>
 
+
+
 <a id="technologies--tools"></a>
 
 ## Technologies & Tools
@@ -233,6 +239,8 @@ class DzineerController extends Controller
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![Streamlit](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=6aa6f8)
+
+
 
 
 <br /><br /><br />
