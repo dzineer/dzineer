@@ -24,7 +24,7 @@ I'm interested in building AI Automations systems and tools.
 <p>&nbsp;</p>
 
 <a id="a-little-about-me"></a>
-<a href="#table-of-contents">TC</a>
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/Link-Table_Of_Contents-informational?style=flat&logo=bookstack&logoColor=white&color=6aa6f8"></a>
 
 ## A little about Me
 
@@ -167,7 +167,7 @@ class DzineerController extends Controller
 <p>&nbsp;</p>
 
 <a id="technologies--tools"></a>
-<a href="#table-of-contents">TC</a>
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/Link-Table_Of_Contents-informational?style=flat&logo=bookstack&logoColor=white&color=6aa6f8"></a>
 
 ## Technologies & Tools
 
@@ -240,7 +240,7 @@ class DzineerController extends Controller
 <p>&nbsp;</p>
 
 <a id="connect-with-me"></a>
-<a href="#table-of-contents">TC</a>
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/Link-Table_Of_Contents-informational?style=flat&logo=bookstack&logoColor=white&color=6aa6f8"></a>
 
 ## Connect with Me
 
