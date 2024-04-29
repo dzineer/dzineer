@@ -22,7 +22,7 @@ class Dzineer(AI AutomationAISpecialist):
 
 JavaScript/ReactJS
 
-```js
+```jsx
 
 import React, { useEffect, useState } from 'react';
 
@@ -53,11 +53,29 @@ const Dzineer = () => {
     return (
         <div>
             <img src="https://img.shields.io/badge/AI-AI-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8" alt="AI Badge" />
+            <p>Name: {dzineerState.name}</p>
+            <p>Model: {dzineerState.model.join(', ')}</p>
+            <p>Research: {dzineerState.research.join(', ')}</p>
+            <p>Interest: {dzineerState.interest.join(', ')}</p>
         </div>
     );
-};
+}
 
 export { DzineerProvider, Dzineer };
+
+import React from 'react';
+import { DzineerProvider, Dzineer } from './Dzineer'; // adjust the import path according to your project structure
+
+function App() {
+    return (
+        <DzineerProvider>
+            <Dzineer />
+        </DzineerProvider>
+    );
+}
+
+export default App;
+
 
 ```
 
