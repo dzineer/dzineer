@@ -1,18 +1,23 @@
-## Hello! I'm Dzineer. <img src="./figures/dzineer_profile.jpg" width="40px">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dzineer.dzineer)
+
 
 ## Table of Contents
-- [Hello! I'm Dzineer. ](#hello-im-dzineer-)
 - [Table of Contents](#table-of-contents)
-- [A little about Me](#a-little-about-me)
-- [Technologies \& Tools](#technologies--tools)
-- [Connect with Me ](#connect-with-me-)
-  
+- [Hello! I'm Dzineer.  {#hello-im-dzineer}](#hello-im-dzineer--hello-im-dzineer)
+- [A little about Me {#a-little-about-me}](#a-little-about-me-a-little-about-me)
+- [Technologies \& Tools {#technologies--tools}](#technologies--tools-technologies--tools)
+- [Connect with Me  {#connect-with-me}](#connect-with-me--connect-with-me)
+ 
+
+
+## Hello! I'm Dzineer. <img src="./figures/dzineer_profile.jpg" width="40px"> {#hello-im-dzineer}
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dzineer.dzineer)
+
 I'm interested in building AI Automations systems and tools.
 
 <img align="right" src="./figures/dzineer_digital_whiteboard.png" width="100%" style="border-radius: 50%;"/>
 
-## A little about Me
+
+## A little about Me {#a-little-about-me}
 
 I'm a software developer specializing in AI and automation systems. I have a strong background in Python, JavaScript/ReactJS, and PHP/Laravel. Here's a little more about me:
 
@@ -152,7 +157,7 @@ class DzineerController extends Controller
 ```
 
 
-## Technologies & Tools 
+## Technologies & Tools {#technologies--tools}
 
 **Cloud Services:**
 
@@ -220,7 +225,7 @@ class DzineerController extends Controller
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![Streamlit](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=6aa6f8)
 
-## Connect with Me <img src="./figures/dzineer_profile.jpg" width="40px">
+## Connect with Me <img src="./figures/dzineer_profile.jpg" width="40px"> {#connect-with-me}
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/Dzineer" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>    
