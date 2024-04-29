@@ -230,7 +230,7 @@ class DzineerController extends Controller
 ![WHMCS](https://img.shields.io/badge/Admin-WHMCS-informational?style=flat&logo=whmcs&logoColor=white&color=6aa6f8)
 ![Plesk](https://img.shields.io/badge/Admin-Plesk-informational?style=flat&logo=plesk&logoColor=white&color=6aa6f8)
 
-**Tools and Services <img src="./figures/dzineer_digital_whiteboard.png" width="40px">:**
+**Tools and Services:**
 
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
@@ -241,6 +241,7 @@ class DzineerController extends Controller
 
 <a id="connect-with-me"></a>
 <a href="#table-of-contents">TC</a>
+
 ## Connect with Me
 
 <p align="center">
