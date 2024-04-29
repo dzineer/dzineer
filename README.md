@@ -2,15 +2,17 @@
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-  - [Hello! I'm Dzineer.  {#hello-im-dzineer}](#hello-im-dzineer--hello-im-dzineer)
+  - [Hello! I'm Dzineer.](#hello-im-dzineer)
   - [A little about Me](#a-little-about-me)
   - [Technologies \& Tools](#technologies--tools)
   - [Connect with Me](#connect-with-me)
  
 <br/><br/><br/>
 
+<a id="hello-im-dzineer"></a>
 
-## Hello! I'm Dzineer. <img src="./figures/dzineer_profile.jpg" width="40px"> {#hello-im-dzineer}
+## Hello! I'm Dzineer.
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dzineer.dzineer)
 
 I'm interested in building AI Automations systems and tools.
