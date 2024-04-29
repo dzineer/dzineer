@@ -1,15 +1,21 @@
 ## Hello! I'm Dzineer. <img src="./figures/dzineer_profile.jpg" width="40px">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dzineer.dzineer)
 
-
-
+## Table of Contents
+- [Hello! I'm Dzineer. ](#hello-im-dzineer-)
+- [Table of Contents](#table-of-contents)
+- [A little about Me](#a-little-about-me)
+- [Technologies \& Tools](#technologies--tools)
+- [Connect with Me ](#connect-with-me-)
+  
 I'm interested in building AI Automations systems and tools.
 
 <img align="right" src="./figures/dzineer_digital_whiteboard.png" width="100%" style="border-radius: 50%;"/>
 
 ## A little about Me
 
-Python
+I'm a software developer specializing in AI and automation systems. I have a strong background in Python, JavaScript/ReactJS, and PHP/Laravel. Here's a little more about me:
+
 
 ```python
 class Dzineer(AI AutomationAISpecialist):
@@ -24,13 +30,10 @@ JavaScript/ReactJS
 
 ```jsx
 
-
 DzineerContext.jsx:
 
 import React from 'react';
-
 const DzineerContext = React.createContext();
-
 export default DzineerContext;
 
 
