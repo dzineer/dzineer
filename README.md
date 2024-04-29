@@ -16,7 +16,7 @@ I'm interested in building AI Automations systems and tools.
 
 <img align="right" src="./figures/dzineer_digital_whiteboard.png" width="100%" style="border-radius: 50%;"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 ## <a id="a-little-about-me"></a>A little about Me
 
