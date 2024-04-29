@@ -23,16 +23,15 @@ class Dzineer(AI AutomationAISpecialist):
 **Cloud Services:**
 
 ![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![AzureDevOps](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 ![AWS EC2](https://img.shields.io/badge/Compute-AWS_EC2-informational?style=flat&logo=amazon-ec2&logoColor=white&color=6aa6f8)
 ![AWS S3](https://img.shields.io/badge/Storage-AWS_S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
-![Git DevOps](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
+![Git DevOps](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
 
 **Pipelines:**
 
-![Azure DevOps](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![Git DevOps](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
+![Azure DevOps](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azuredevops&logoColor=white&color=6aa6f8)
+![Git DevOps](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=githubdevops&logoColor=white&color=6aa6f8)
 
 **Programming Languages:**
 
