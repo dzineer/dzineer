@@ -8,7 +8,6 @@
 - [Connect with Me](#connect-with-me)
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <a id="hello-im-dzineer"></a>
 
