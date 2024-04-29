@@ -1,6 +1,5 @@
-## Hello, folks! I'm Gaoxiang. <img src="./figures/cat1.gif" width="40px">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gaoxiangluo.gaoxiangluo)
-
+## Hello! I'm Dzineer. <img src="./figures/dzineer_profile.jpg" width="40px">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dzineer.dzineer)
 
 
 I'm interested in building AI Automations systems and tools.
@@ -19,7 +18,7 @@ class Dzineer(AI AutomationAISpecialist):
         
 ```
 
-## Technologies & Tools <img src="./figures/cat3.gif" width="40px">
+## Technologies & Tools 
 
 **Cloud Services:**
 
@@ -73,7 +72,7 @@ class Dzineer(AI AutomationAISpecialist):
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![Streamlit](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=6aa6f8)
 
-## Connect with Me <img src="./figures/cat5.gif" width="40px">
+## Connect with Me <img src="./figures/dzineer_profile.jpg" width="40px">
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/Dzineer" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>    
