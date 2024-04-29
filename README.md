@@ -74,6 +74,11 @@ class Dzineer(AI AutomationAISpecialist):
 ![PostgreSQL](https://img.shields.io/badge/DB-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
 
+**Hosting Tools and Services:**
+
+![WHMCS](https://img.shields.io/badge/Admin-WHMCS-informational?style=flat&logo=whmcs&logoColor=white&color=6aa6f8)
+![Plesk](https://img.shields.io/badge/Admin-Plesk-informational?style=flat&logo=plesk&logoColor=white&color=6aa6f8)
+
 **Tools and Services:**
 
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
