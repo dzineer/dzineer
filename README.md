@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Hello! I'm Dzineer.  {#hello-im-dzineer}](#hello-im-dzineer--hello-im-dzineer)
-- [A little about Me {#a-little-about-me}](#a-little-about-me-a-little-about-me)
+- [A little about Me](#a-little-about-me)
 - [Technologies \& Tools {#technologies--tools}](#technologies--tools-technologies--tools)
 - [Connect with Me  {#connect-with-me}](#connect-with-me--connect-with-me)
  
@@ -17,7 +17,7 @@ I'm interested in building AI Automations systems and tools.
 <img align="right" src="./figures/dzineer_digital_whiteboard.png" width="100%" style="border-radius: 50%;"/>
 
 
-## A little about Me {#a-little-about-me}
+## <a id="a-little-about-me"></a>A little about Me
 
 I'm a software developer specializing in AI and automation systems. I have a strong background in Python, JavaScript/ReactJS, and PHP/Laravel. Here's a little more about me:
 
