@@ -1,12 +1,13 @@
 
 
-## Table of Contents
+# Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Hello! I'm Dzineer.  {#hello-im-dzineer}](#hello-im-dzineer--hello-im-dzineer)
-- [A little about Me](#a-little-about-me)
-- [Technologies \& Tools {#technologies--tools}](#technologies--tools-technologies--tools)
-- [Connect with Me  {#connect-with-me}](#connect-with-me--connect-with-me)
+  - [Hello! I'm Dzineer.  {#hello-im-dzineer}](#hello-im-dzineer--hello-im-dzineer)
+  - [A little about Me](#a-little-about-me)
+  - [Technologies \& Tools](#technologies--tools)
+  - [Connect with Me](#connect-with-me)
  
+<br/><br/><br/>
 
 
 ## Hello! I'm Dzineer. <img src="./figures/dzineer_profile.jpg" width="40px"> {#hello-im-dzineer}
@@ -18,7 +19,9 @@ I'm interested in building AI Automations systems and tools.
 
 <br/><br/><br/>
 
-## <a id="a-little-about-me"></a>A little about Me
+<a id="a-little-about-me"></a>
+
+## A little about Me
 
 I'm a software developer specializing in AI and automation systems. I have a strong background in Python, JavaScript/ReactJS, and PHP/Laravel. Here's a little more about me:
 
@@ -157,8 +160,11 @@ class DzineerController extends Controller
 
 ```
 
+<br/><br/><br/>
 
-## Technologies & Tools {#technologies--tools}
+<a id="technologies--tools"></a>
+
+## Technologies & Tools
 
 **Cloud Services:**
 
@@ -226,7 +232,12 @@ class DzineerController extends Controller
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![Streamlit](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=6aa6f8)
 
-## Connect with Me <img src="./figures/dzineer_profile.jpg" width="40px"> {#connect-with-me}
+
+<br /><br /><br />
+
+<a id="connect-with-me"></a>
+
+## Connect with Me
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/Dzineer" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>    
