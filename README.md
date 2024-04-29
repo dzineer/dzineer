@@ -17,7 +17,6 @@ class Dzineer(AI AutomationAISpecialist):
         self.interest = ["Entrepreneurship", "IP", "VC Methods"]
 ```
 
-<img align="right" src="./figures/dzineer_digital_whiteboard.png" width="200" style="border-radius: 50%;"/>
 
 ```php
 interface Automations {}
@@ -33,7 +32,6 @@ class Dzineer implements Automations, AI {
 }   
 ```
 
-<img align="right" src="./figures/dzineer_digital_whiteboard.png" width="200" style="border-radius: 50%;"/>
 
 ```php
 class Dzineer extends React.Component {
