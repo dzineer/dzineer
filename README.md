@@ -1,6 +1,7 @@
 
 
 ## Table of Contents
+
 - [Table of Contents](#table-of-contents)
 - [Hello! I'm Dzineer.](#hello-im-dzineer)
 - [A little about Me](#a-little-about-me)
@@ -23,6 +24,7 @@ I'm interested in building AI Automations systems and tools.
 <p>&nbsp;</p>
 
 <a id="a-little-about-me"></a>
+<a id="table-of-contents">TC</a>
 
 ## A little about Me
 
@@ -165,6 +167,7 @@ class DzineerController extends Controller
 <p>&nbsp;</p>
 
 <a id="technologies--tools"></a>
+<a id="table-of-contents">TC</a>
 
 ## Technologies & Tools
 
@@ -237,7 +240,7 @@ class DzineerController extends Controller
 <p>&nbsp;</p>
 
 <a id="connect-with-me"></a>
-
+<a id="table-of-contents">TC</a>
 ## Connect with Me
 
 <p align="center">
