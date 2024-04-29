@@ -67,6 +67,13 @@ class Dzineer(AI AutomationAISpecialist):
 ![Ollama](https://img.shields.io/badge/API-Ollama-informational?style=flat&logo=scikit-learn&logoColor=white&color=6aa6f8)
 ![MLStudio](https://img.shields.io/badge/API-LMStudio-informational?style=flat&logo=numpy&logoColor=white&color=6aa6f8)
 
+**Databases:**
+
+![MySQL](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![Maria DB](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=db&logoColor=white&color=6aa6f8)
+![PostgreSQL](https://img.shields.io/badge/DB-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
+
 **Tools and Services:**
 
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
