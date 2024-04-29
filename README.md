@@ -6,7 +6,7 @@ I'm interested in building AI Automations systems and tools.
 
 ## A little about Me
 
-<img align="right" src="./figures/ai_generated_selfie.jpeg" width="200" style="border-radius: 50%;"/>
+<img align="right" src="./figures/dzineer_digital_whiteboard.png" width="200" style="border-radius: 50%;"/>
 
 ```python
 class Dzineer(AI AutomationAISpecialist):
@@ -16,6 +16,40 @@ class Dzineer(AI AutomationAISpecialist):
         self.research = ["AI", "AI Automations", "Software Architect, Emphasis AI & Automations"]
         self.interest = ["Entrepreneurship", "IP", "VC Methods"]
         
+```php
+interface Automations {}
+interface AI {}
+
+class Dzineer implements Automations, AI {
+    public function __construct() {
+        $this->name     = "Frank";
+        $this->model    = ["Automations", "AI", "Design"];
+        $this->research = ["AI", "AI Automations", "Software Architect, Emphasis AI & Automations"];
+        $this->interest = ["Entrepreneurship", "IP", "VC Methods"];
+    }
+}   
+```
+
+```php
+class Dzineer extends React.Component {
+    constructor() {
+        super();
+        this.state = {
+            name: "Frank",
+            model: ["Automations", "AI", "Design"],
+            research: ["AI", "AI Automations", "Software Architect, Emphasis AI & Automations"],
+            interest: ["Entrepreneurship", "IP", "VC Methods"]
+        };
+    }
+
+    render() {
+        return (
+            <div>
+                <img src="https://img.shields.io/badge/AI-AI-informational?style=flat&logo=ai&logoColor=white&color=6aa6f8" alt="AI Badge" />
+            </div>
+        );
+    }
+}
 ```
 
 ## Technologies & Tools 
