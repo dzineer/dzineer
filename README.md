@@ -262,6 +262,7 @@ class DzineerController extends Controller
 **AI API Integrations:**
 
 ![OpenAI](https://img.shields.io/badge/API-OpenAI-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
+![Anthropic](https://img.shields.io/badge/API-Anthropic-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
 ![Ollama](https://img.shields.io/badge/API-Ollama-informational?style=flat&logo=scikit-learn&logoColor=white&color=6aa6f8)
 ![MLStudio](https://img.shields.io/badge/API-LMStudio-informational?style=flat&logo=numpy&logoColor=white&color=6aa6f8)
 
