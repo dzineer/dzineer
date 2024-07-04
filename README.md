@@ -116,6 +116,51 @@ export default App;
 
 ```
 
+```python
+from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel
+from typing import List, Dict, Any
+import json
+
+app = FastAPI()
+
+class Dzineer(BaseModel):
+    name: str = "Frank"
+    model: List[str] = ["Automations", "AI", "Design"]
+    research: List[str] = ["AI", "AI Automations", "Software Architect, Emphasis AI & Automations"]
+    interest: List[str] = ["Entrepreneurship", "IP", "VC Methods"]
+
+# In-memory storage for simplicity. In a real application, you'd use a database.
+dzineer_instance = Dzineer()
+
+@app.get("/dzineer")
+async def show_dzineer():
+    return dzineer_instance
+
+@app.get("/")
+async def root():
+    return {"message": "Welcome to the Dzineer API"}
+
+# Optional: Add an endpoint to update the Dzineer instance
+@app.put("/dzineer")
+async def update_dzineer(dzineer: Dzineer):
+    global dzineer_instance
+    dzineer_instance = dzineer
+    return {"message": "Dzineer updated successfully"}
+
+# If you want to serve HTML (similar to the blade template), you can use Jinja2 templates with FastAPI
+from fastapi.responses import HTMLResponse
+from fastapi.templating import Jinja2Templates
+
+templates = Jinja2Templates(directory="templates")
+
+@app.get("/dzineer/html", response_class=HTMLResponse)
+async def show_dzineer_html(request: Request):
+    return templates.TemplateResponse("dzineer.html", {"request": request, "dzineer": dzineer_instance})
+
+
+```
+
 
 PHP/Laravel
 
